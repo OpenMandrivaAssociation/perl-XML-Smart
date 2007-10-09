@@ -2,7 +2,7 @@
 %define version 1.6.9
 %define release %mkrel 2
 
-Summary:	A Smart, easy and powerful way to access/create XML files/data.
+Summary:	A Smart, easy and powerful way to access/create XML files/data
 Name: 		perl-%{module}
 Version: 	%{version}
 Release: 	%{release}
