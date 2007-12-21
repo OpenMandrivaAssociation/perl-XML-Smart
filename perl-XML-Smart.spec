@@ -12,6 +12,7 @@ Group:		Development/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/XML/%{module}-%{version}.tar.bz2
 BuildRequires:	perl-devel, perl-Object-MultiType
 BuildArch:	noarch
+BuildRoot: 	%{_tmppath}/%{name}-%{version}
 
 %description
 This module has an easy way to access/create XML data. It's based on the HASH
