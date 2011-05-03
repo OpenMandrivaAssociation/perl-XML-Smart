@@ -1,6 +1,6 @@
 %define module 	XML-Smart
 %define version 1.6.9
-%define release %mkrel 6
+%define release %mkrel 7
 
 Summary:	A Smart, easy and powerful way to access/create XML files/data
 Name: 		perl-%{module}
