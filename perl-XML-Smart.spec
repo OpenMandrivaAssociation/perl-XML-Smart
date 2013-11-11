@@ -1,5 +1,5 @@
 %define module 	XML-Smart
-%define upstream_version 1.77
+%define upstream_version 1.78
 
 Summary:	A Smart, easy and powerful way to access/create XML files/data
 Name: 		perl-%{module}
@@ -74,5 +74,6 @@ EOF
 
 * Mon Aug 21 2006 Erwan Velu <erwan@seanodes.com> 1.6.9-1mdv2007.0
 - Initial release
+
 
 

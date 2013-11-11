@@ -1,4 +1,5 @@
 removed_sources:
   XML-Smart-1.6.9.tar.bz2: 8689fd8f7dbbfe6c48f4394b8ee71cbc062d3744
-sources:
   XML-Smart-1.77.tar.gz: 7c2955fdde25ae352b706627a7e9a99fd49600f0
+sources:
+  XML-Smart-1.78.tar.gz: 965580b02dfcb3314cc75c7dbc1e79e20a4fc218
