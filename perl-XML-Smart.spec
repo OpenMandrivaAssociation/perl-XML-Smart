@@ -4,7 +4,7 @@
 Summary:	A Smart, easy and powerful way to access/create XML files/data
 Name: 		perl-%{module}
 Version: 	%perl_convert_version %{upstream_version}
-Release: 	1
+Release: 	2
 License: 	GPL
 Url:		http://search.cpan.org/dist/%{module}
 Group:		Development/Perl
