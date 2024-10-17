@@ -6,7 +6,7 @@ Name: 		perl-%{module}
 Version: 	%perl_convert_version %{upstream_version}
 Release: 	3
 License: 	GPL
-Url:		http://search.cpan.org/dist/%{module}
+Url:		https://search.cpan.org/dist/%{module}
 Group:		Development/Perl
 Source0:	ftp://ftp.perl.org:21/pub/CPAN/modules/by-module/XML/XML-Smart-%{upstream_version}.tar.gz
 BuildRequires:	perl-devel, perl-Object-MultiType
