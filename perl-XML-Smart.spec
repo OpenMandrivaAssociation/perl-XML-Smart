@@ -9,6 +9,7 @@ License: 	GPL
 Url:		https://search.cpan.org/dist/%{module}
 Group:		Development/Perl
 Source0:	ftp://ftp.perl.org:21/pub/CPAN/modules/by-module/XML/XML-Smart-%{upstream_version}.tar.gz
+BuildRequires:	make
 BuildRequires:	perl-devel, perl-Object-MultiType
 BuildArch:	noarch
 
