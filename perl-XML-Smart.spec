@@ -3,12 +3,12 @@
 
 Summary:	A Smart, easy and powerful way to access/create XML files/data
 Name: 		perl-%{module}
-Version: 	%perl_convert_version %{upstream_version}
-Release: 	3
+Version: 	%{upstream_version}
+Release: 	4
 License: 	GPL
-Url:		https://search.cpan.org/dist/%{module}
+Url:		https://metacpan.org/dist/XML-Smart
 Group:		Development/Perl
-Source0:	ftp://ftp.perl.org:21/pub/CPAN/modules/by-module/XML/XML-Smart-%{upstream_version}.tar.gz
+Source0:	https://cpan.metacpan.org/authors/id/T/TM/TMHARISH/XML-Smart-%{upstream_version}.tar.gz
 BuildRequires:	make
 BuildRequires:	perl-devel, perl-Object-MultiType
 BuildArch:	noarch
